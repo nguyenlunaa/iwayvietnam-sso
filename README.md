@@ -7,7 +7,7 @@ Copyright (C) 2020-present iWay Vietnam and/or its affiliates. All rights reserv
   get their profiles and manage authorizations in order to secure web applications and web services.
 * Supported authentication mechanisms: [SAML](http://www.pac4j.org/docs/clients/saml.html) -  
   [CAS](http://www.pac4j.org/docs/clients/cas.html) -
-  [OpenID Connect](http://www.pac4j.org/docs/clients/openid-connect.html)
+  [OpenID Connect](http://www.pac4j.org/docs/clients/openid-connect.html)    
 
 ## Building Java extension
 ### Requirement
@@ -15,7 +15,7 @@ Copyright (C) 2020-present iWay Vietnam and/or its affiliates. All rights reserv
 * Apache Maven 3.5 or newer for Maven build.
 * Apache Ant 1.x for Ant build.
 * rpm-build for rpm package build.
-
+centos7
 ### Setting up your build system
 * On Fedora or CentOS 8.x or Red Hat EL 7.x
 ```shell
