@@ -13,7 +13,7 @@ Copyright (C) 2020-present iWay Vietnam and/or its affiliates. All rights reserv
 ### Requirement
 * JDK 11 or newer.
 * Apache Maven 3.5 or newer for Maven build.
-* Apache Ant 1.x for Ant build.
+*  Apache Ant 1.x for Ant build.
 * rpm-build for rpm package build.
 centos7
 ### Setting up your build system
