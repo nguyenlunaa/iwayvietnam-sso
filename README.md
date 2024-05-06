@@ -17,7 +17,7 @@ Copyright (C) 2020-present iWay Vietnam and/or its affiliates. All rights reserv
 * rpm-build for rpm package build.
 
 ### Setting up your build system
-* On Fedora or CentOS 8.x or Red Hat EL 7.x
+* On Fedora or CentOS 8.x or Red Hat EL 7.x zimbra viet nam
 ```shell
 dnf -y install java-11-openjdk java-11-openjdk-devel maven ant git make rpmdevtools rpm-build
 ```
