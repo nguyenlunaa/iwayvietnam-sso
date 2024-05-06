@@ -13,7 +13,7 @@ BuildRequires:  java-11-openjdk-devel maven
 BuildArch:      noarch
 
 %description
-Zm SSO is the Zimbra Collaboration Open Source Edition extension for single sign-on authentication to the Zimbra Web Client.
+ Zm SSO is the Zimbra Collaboration Open Source Edition extension for single sign-on authentication to the Zimbra Web Client.
 
 %prep
 %setup -q
