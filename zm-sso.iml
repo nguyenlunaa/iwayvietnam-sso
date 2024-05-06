@@ -10,7 +10,7 @@
       <excludeFolder url="file://$MODULE_DIR$/target"/>
     </content>
     <orderEntry type="inheritedJdk" />
-    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="sourceFolder" forTests="false"/>
     <orderEntry type="module-library">
       <library name="Maven: com.zimbra.cs:zimbra-common:8.8.15">
         <CLASSES>
