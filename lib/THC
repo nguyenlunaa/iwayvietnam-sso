@@ -1,0 +1,33 @@
+8..f8db472  trungnguyen -> origin/trungnguyen
+
+C:\Users\vanThang\Downloads\iwayvietnam-sso-vanthang (1)\iwayvietnam-sso-vanthang\iwayvietnam-sso>git push origin trungnguyen:main
+To https://github.com/nguyenlunaa/iwayvietnam-sso/
+ ! [rejected]        trungnguyen -> main (non-fast-forward)
+error: failed to push some refs to 'https://github.com/nguyenlunaa/iwayvietnam-sso/'
+hint: Updates were rejected because a pushed branch tip is behind its remote
+hint: counterpart. If you want to integrate the remote changes, use 'git pull'
+hint: before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\vanThang\Downloads\iwayvietnam-sso-vanthang (1)\iwayvietnam-sso-vanthang\iwayvietnam-sso>git push
+To https://github.com/nguyenlunaa/iwayvietnam-sso/
+ ! [rejected]        trungnguyen -> trungnguyen (non-fast-forward)
+error: failed to push some refs to 'https://github.com/nguyenlunaa/iwayvietnam-sso/'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\vanThang\Downloads\iwayvietnam-sso-vanthang (1)\iwayvietnam-sso-vanthang\iwayvietnam-sso>git push origin
+To https://github.com/nguyenlunaa/iwayvietnam-sso/
+ ! [rejected]        trungnguyen -> trungnguyen (non-fast-forward)
+error: failed to push some refs to 'https://github.com/nguyenlunaa/iwayvietnam-sso/'
+hint: Updates were rejected because the tip of your current branch is behind
+hint: its remote counterpart. If you want to integrate the remote changes,
+hint: use 'git pull' before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+C:\Users\vanThang\Downloads\iwayvietnam-sso-vanthang (1)\iwayvietnam-sso-vanthang\iwayvietnam-sso>git push origin main
+Everything up-to-date
+
+C:\Users\vanThang\Downloads\iwayvietnam-sso-vanthang (1)\iwayvietnam-sso-vanthang\iwayvietnam-sso>
