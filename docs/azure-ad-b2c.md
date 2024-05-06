@@ -11,7 +11,7 @@ Your users can sign up with an email address or username and a password to acces
 5. Under **Permissions**, select the *Grant admin consent to openid and offline_access permissions* check box.
 6. Select **Register**.
 
-Next, expose the API by adding a scope:
+Next, expose the API b y adding a scope:
 1. In the left menu, under **Manage**, select **Expose an API**.
 2. Select **Add a scope**, then select **Save and continue** to accept the default application ID URI.
 3. Enter the following values to create a scope that allows custom policy execution in Azure AD B2C tenant
