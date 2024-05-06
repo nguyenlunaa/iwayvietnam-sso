@@ -58,7 +58,6 @@ The output should be like this:
 [jar] Building jar: ~/projects/zimbra/zm-sso/dist/zm-sso-1.0.0-1.jar
 [jar] Building jar: ~/projects/zimbra/zm-sso/dist/zm-sso-1.0.0-1.jar
 ```
-
 ### Build rpm package
 ```shell
 cd ~/projects/zimbra/zm-sso
