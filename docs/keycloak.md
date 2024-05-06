@@ -13,7 +13,7 @@ It makes it easy to secure applications and services with little to no code.
 cd /opt
 wget https://github.com/keycloak/keycloak/releases/download/13.0.0/keycloak-13.0.0.tar.gz
 tar -xvzf keycloak-13.0.0.tar.gz
-```
+````
 
 ### Deployment configuration
 * Using a text editor to open **/opt/keycloak-13.0.0/standalone/configuration/standalone.xml** file.
