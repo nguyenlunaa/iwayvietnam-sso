@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS sso_session (
+ CREATE TABLE IF NOT EXISTS sso_session (
     sso_token        VARCHAR(255) NOT NULL,
     account_id       VARCHAR(127) NOT NULL,
     account_name     VARCHAR(255) NOT NULL,
