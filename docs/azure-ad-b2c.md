@@ -1,6 +1,6 @@
 Register Identity Experience Framework applications
 ===================================================
-Azure AD B2C requires you to register two applications that it uses to sign up and sign in users with local accounts: *IdentityExperienceFramework*, a web API, and *ProxyIdentityExperienceFramework*, a native app with delegated permission to the IdentityExperienceFramework app.
+Azure AD B2C requires you to register two applications that it uses to sign up and sign in users with local accounts: *IdentityExperienceFramework*, a web API, and  *ProxyIdentityExperienceFramework*, a native app with delegated permission to the IdentityExperienceFramework app.
 Your users can sign up with an email address or username and a password to access tenant-registered applications, which creates a "local account." Local accounts exist only in Azure AD B2C tenant.
 
 ### Register the IdentityExperienceFramework application
